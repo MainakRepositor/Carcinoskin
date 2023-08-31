@@ -7,11 +7,6 @@ Essentially it uses 6 different CNN models to diagnose 6 different diseases :- C
 Covid and Pnemonia are detected using chest X-ray scans of the patient while Gluacoma uses an internal scan of the eye and Skin Cancer is detected
 using external pictures
 
-# Trailer
-Watch our Trailer here :- [https://drive.google.com/file/d/1rsuZLO70enTyi4aTBziKADpSQ04UE9KP/view?usp=sharing]
-
-
-
 ## Our Model
 Below is the summary of our CNN model which we have made using python and keras.
 
