@@ -1,4 +1,4 @@
-![Health (1)](https://user-images.githubusercontent.com/77538244/234961507-c6969ae8-4647-4899-853d-17e6b3c46315.png)
+![image](https://github.com/MainakRepositor/Carcinoskin/assets/64016811/c682f3e2-5943-4123-98b8-48f16801e82c)
 
 # HealthVision
 This project uses deep learning algorithms and the Keras library to determine if a person has certain diseases or not from their chest x-rays and other scans. The trained model is displayed using Streamlit, which enables the user to upload an image and receive instant feedback.
