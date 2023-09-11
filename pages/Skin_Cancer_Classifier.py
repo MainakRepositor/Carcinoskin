@@ -72,7 +72,7 @@ if x:
                 font-family: "Source Sans Pro", sans-serif;
             }
             </style>
-            <h1>It is Benign</h1>
+            <h1>No cancer detected!</h1>
             """
         )
     else:
