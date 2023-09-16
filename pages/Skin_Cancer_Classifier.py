@@ -75,6 +75,7 @@ if x:
             <h1>No cancer detected!</h1>
             """
         )
+        
     else:
         components.html(
             """
@@ -89,3 +90,6 @@ if x:
             <h1>Cancer Detected</h1>
             """
         )
+
+    st.sidebar.success("Accuracy")
+    st.sidebar.write(confidence_score)
