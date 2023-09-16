@@ -47,10 +47,10 @@ def page_layout():
     st.write("- Accessible from anywhere, anytime")
     st.markdown("## Why is our app unique?")
     st.write("- CarcinoSKin combines multiple ML models into one app")
-    st.write("- The app uses CNN on X-ray imagery to diagnose diseases")
+   
     st.write("- CarcinoSKin uses advanced algorithms to provide fast and accurate diagnosis")
     st.markdown("## Relevance:")
-    st.write("- CarcinoSKin can diagnose various diseases, including lung cancer, tuberculosis, and pneumonia")
+ 
     st.write("- The app can be used by doctors, hospitals, and patients")
     st.write("- CarcinoSKin can improve the accuracy and speed of disease diagnosis")
     st.markdown("## Uses:")
