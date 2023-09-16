@@ -72,7 +72,7 @@ if x:
                 font-family: "Source Sans Pro", sans-serif;
             }
             </style>
-            <h1>No cancer detected!</h1>
+            <h1>Benign Stage: No cancer detected!</h1>
             """
         )
         
@@ -87,7 +87,7 @@ if x:
                 font-family: "Source Sans Pro", sans-serif;
             }
             </style>
-            <h1>Cancer Detected</h1>
+            <h1>Malignant Stage: Cancer Detected</h1>
             """
         )
 
