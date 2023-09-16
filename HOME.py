@@ -40,10 +40,10 @@ components.html(
 
 
 def page_layout():
-    st.write("CarcinoSKin is an app that combines various ML models into one in order to determine if you have a disease, using CNN and X-rays of the patients. The app uses advanced algorithms to diagnose various diseases, including lung cancer, tuberculosis, and pneumonia.")
+    st.write("CarcinoSKin is an app that combines various ML models into one in order to determine if you have a disease, using CNN images of the patients. The app uses advanced algorithms to diagnose various diseases, including skin cancer.")
     st.markdown("## Benefits:")
     st.write("- Fast and accurate diagnosis of diseases")
-    st.write("- Non-invasive and painless diagnosis using X-rays")
+
     st.write("- Accessible from anywhere, anytime")
     st.markdown("## Why is our app unique?")
     st.write("- CarcinoSKin combines multiple ML models into one app")
@@ -56,7 +56,6 @@ def page_layout():
     st.markdown("## Uses:")
     st.write("- Hospitals and clinics can use CarcinoSKin to diagnose diseases more quickly")
     st.write("- Patients can use CarcinoSKin to get a quick and accurate diagnosis without the need for invasive procedures")
-    st.write("- CarcinoSKin can be used to screen large populations for diseases, such as tuberculosis and lung cancer")
     
 # Render page layout
 page_layout()
